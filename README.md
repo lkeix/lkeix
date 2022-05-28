@@ -6,7 +6,7 @@ I'm a Engine + er = Engineer!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkeix)](https://github.com/anuraghazra/github-readme-stats)
 
- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Golang, Rust.**
 
