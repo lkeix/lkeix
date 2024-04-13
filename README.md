@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lkeix&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkeix
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
